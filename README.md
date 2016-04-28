@@ -4,7 +4,7 @@ Recycler-view-demo is a NativeScript-built Android app for demonstrating the usa
 
 <h2 id="screenshots">Screenshots</h2>
 
-![](assets/screenshot.png)
+![](assets/screenshot.PNG)
 
 <h2 id="development">Development</h2>
 
