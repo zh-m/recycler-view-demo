@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Great\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\male_git.jpg",
+        "source": "C:\\Great\\demoNP\\platforms\\android\\src\\main\\res\\drawable-nodpi\\male_git.jpg"
+    },
+    {
+        "merged": "C:\\Great\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\splashscreen.9.png",
+        "source": "C:\\Great\\demoNP\\platforms\\android\\src\\main\\res\\drawable-nodpi\\splashscreen.9.png"
+    },
+    {
+        "merged": "C:\\Great\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\female_git.jpg",
+        "source": "C:\\Great\\demoNP\\platforms\\android\\src\\main\\res\\drawable-nodpi\\female_git.jpg"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\FromWork\\everythingworks\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\splashscreen.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\FromWork\\everythingworks\\demoNP\\platforms\\android\\src\\main\\res\\drawable-nodpi\\splashscreen.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\FromWork\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\splashscreen.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\FromWork\\demoNP\\platforms\\android\\src\\main\\res\\drawable-nodpi\\splashscreen.9.png"
+    }
+]

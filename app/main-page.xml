@@ -1,0 +1,19 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 
+      xmlns:recyclerView="recycler-view"     
+      navigatingTo="navigatingTo">
+  <Page.actionBar>
+    <ActionBar title="RecyclerView Demo" cssClass="action-bar" />
+  </Page.actionBar>
+  
+  <StackLayout> 
+    <recyclerView:RecyclerView items="{{ items }}" >
+        <recyclerView:RecyclerView.itemTemplate>
+          <StackLayout orientation="horizontal" height="40" >
+            <Image cssClass="icon-image" 
+                    src="{{ isFemale ? 'res://female_git' : 'res://male_git' }}" />
+             <Label text="{{ name }}"  />
+          </StackLayout>
+        </recyclerView:RecyclerView.itemTemplate>
+     </recyclerView:RecyclerView>
+  </StackLayout>
+</Page>

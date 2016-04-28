@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Great\demoNP\platforms\android\libs\nativescript.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="72b585c3baffa7cb9fbecc8dd37cd89a127f17f5">
+        <dex dex="C:\Great\demoNP\platforms\android\build\intermediates\pre-dexed\debug\nativescript_525185fc15371ea15725bbe388f5ebffcea461dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhecheva\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Great\demoNP\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_39c7ccd9f4534193ac0c803e4f498f6f4dde5d9a.jar" />
+    </item>
+
+</items>

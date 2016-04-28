@@ -1,0 +1,10 @@
+{
+   "name": "recycler-view",
+   "version": "0.0.1",
+   "main": "recycler-view.js",
+   "nativescript": {
+       "platforms": {
+           "android": "1.1.0"
+       }
+   }
+}

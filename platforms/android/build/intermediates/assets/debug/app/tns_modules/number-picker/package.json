@@ -1,0 +1,16 @@
+{
+  "name": "number-picker",
+  "version": "0.0.1",
+  "main": "number-picker.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.1.0"
+    }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "number-picker@0.0.1",
+  "scripts": {},
+  "_shasum": "a8bb55fb3099cf42f7f863df2afdae35b50f14a1",
+  "_from": "number-picker",
+  "_resolved": "file:number-picker"
+}

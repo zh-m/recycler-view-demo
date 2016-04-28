@@ -1,0 +1,16 @@
+{
+  "name": "recycler-view",
+  "version": "0.0.1",
+  "main": "recycler-view.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.1.0"
+    }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "recycler-view@0.0.1",
+  "scripts": {},
+  "_shasum": "a93533abb82ff3d75523939e0dad5456d0166d81",
+  "_from": "recycler-view",
+  "_resolved": "file:recycler-view"
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Great\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\male_git.jpg",
+        "source": "C:\\Great\\demoNP\\platforms\\android\\src\\main\\res\\drawable-ldpi\\male_git.jpg"
+    },
+    {
+        "merged": "C:\\Great\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Great\\demoNP\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\FromWork\\everythingworks\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\FromWork\\everythingworks\\demoNP\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Great\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\female_git.jpg",
+        "source": "C:\\Great\\demoNP\\platforms\\android\\src\\main\\res\\drawable-ldpi\\female_git.jpg"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\FromWork\\demoNP\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\FromWork\\demoNP\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

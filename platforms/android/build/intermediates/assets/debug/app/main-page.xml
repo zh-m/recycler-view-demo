@@ -1,0 +1,17 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 
+      xmlns:recyclerView="recycler-view"     
+      navigatingTo="navigatingTo">
+  <StackLayout>
+ 
+    <recyclerView:RecyclerView items="{{ items }}" >
+        <recyclerView:RecyclerView.itemTemplate>
+          <StackLayout orientation="horizontal">
+            <Image cssClass="icon-image" 
+                    src="{{ isFemale ? 'res://female_git' : 'res://male_git' }}" />
+             <Label text="{{ name }}"   />
+             <Label text="{{ age }}" />
+          </StackLayout>
+        </recyclerView:RecyclerView.itemTemplate>
+     </recyclerView:RecyclerView>
+  </StackLayout>
+</Page>
